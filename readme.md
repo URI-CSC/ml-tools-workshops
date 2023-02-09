@@ -1,1 +1,21 @@
-Workshop readme
+# URI Machine Learning Workshop Series
+
+This GitHub repository will contain all material covered during URI's Spring 2023 Machine Learning Workshop Series.
+We are excited to make the most of this opportunity to expose the community to some introductory Machine Learning tools and techniques, and hope to successfully foster an interest of these topics in all of you.
+
+## Schedule
+
+| Date         | Title                                                        | Topics                                                       |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| February 8th | [Python Tools for Machine Learning](https://www.eventbrite.com/e/python-tools-for-machine-learning-tickets-536221391617) | The first in a series of workshops geared toward making Machine Learning more<br/>accessible to the community. In this first workshop, we will be covering useful tools <br />and techniques such as NumPy, Tensors, Slicing, List comprehension, and Broadcasting. <br />This will lay the groundwork for future workshops where we will dive into more complex <br />topics such as exploring ML frameworks, configuring data loaders, and creating & using ML models.<br /><br />Basic Python knowledge of variables, assignments, operators, functions, and lists is required to attend. |
+| TBD          | Classes in Python & Deep Learning Frameworks                 | In the second workshop of the semster, we will begin diving into what makes Machine Learning models work. <br />Topics covered will include Python classes, data loaders, and the PyTorch framework.<br />By the end of this session attendees will understand the various components of a Neural Network and have gained experience in developing a ML model to accomplish a specific task. |
+| TBD          | Fine Tuning for Downstream Tasks                             | Building on results from the second workshop, our third will delve into fine tuning a pre-built model for downstream tasks. |
+| TBD          | Reporting Your Findings in LaTeX                             | In the fourth and final installation of this workshop series, we will discuss how to write a proper report using LaTeX. |
+
+
+
+## Acknowledgements
+
+This workshop series is being funded by a [Tensorflow](https://www.tensorflow.org/) and [Google AI](https://ai.google/) award to support machine learning courses and diversity programs.
+
+![Placeholder](https://homepage.cs.uri.edu/~malvarez/imgs/logos/tensorflow.jpg)
