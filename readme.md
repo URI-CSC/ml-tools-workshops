@@ -3,6 +3,8 @@
 This GitHub repository will contain all material covered during URI's Spring 2023 Machine Learning Workshop Series.
 We are excited to make the most of this opportunity to expose the community to some introductory Machine Learning tools and techniques, and hope to successfully foster an interest of these topics in all of you.
 
+[Jupyter Notebook Link](https://colab.research.google.com/drive/1RaA_N4tVWu03rsZk_tLLllw3cUWjEhLY?usp=sharing)
+
 ## Schedule
 
 | Date         | Title                                                        | Topics                                                       |
