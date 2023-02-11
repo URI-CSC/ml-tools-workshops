@@ -1,4 +1,4 @@
-# URI Machine Learning Workshop Series
+# Machine Learning Workshop Series
 
 This GitHub repository will contain all material covered during URI's Spring 2023 Machine Learning Workshop Series.
 We are excited to make the most of this opportunity to expose the community to some introductory Machine Learning tools and techniques, and hope to successfully foster an interest of these topics in all of you.
