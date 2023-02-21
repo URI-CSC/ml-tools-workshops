@@ -4,12 +4,13 @@ This GitHub repository will contain all material covered during URI's Spring 202
 We are excited to make the most of this opportunity to expose the community to some introductory Machine Learning tools and techniques, and hope to successfully foster an interest of these topics in all of you.
 
 ## Authors
-### [Marco Alvarez](https://homepage.cs.uri.edu/~malvarez/)
-Associate Professor & Director of Graduate Studies, Department of Computer Science & Statistics @ University of Rhode Island
-
 ### [Christian Esteves](https://github.com/cesteves) 
 
 PhD Candidate, Department of Computer Science & Statistics @ University of Rhode Island
+
+### [Marco Alvarez](https://homepage.cs.uri.edu/~malvarez/)
+Associate Professor & Director of Graduate Studies, Department of Computer Science & Statistics @ University of Rhode Island
+
 
 ## Schedule
 
