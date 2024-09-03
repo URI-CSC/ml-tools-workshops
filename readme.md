@@ -27,4 +27,4 @@ Associate Professor & Director of Graduate Studies, Department of Computer Scien
 
 This workshop series is being funded by a [Tensorflow](https://www.tensorflow.org/) and [Google AI](https://ai.google/) award to support machine learning courses and diversity programs.
 
-![Placeholder](https://homepage.cs.uri.edu/~malvarez/imgs/logos/tensorflow.jpg)
+![TensorflowIcon](tensorflow.jpg)
